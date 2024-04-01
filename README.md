@@ -4,7 +4,7 @@
 
 
 
-<img src="https://telegra.ph/file/c66d12099fb7a4f62d70a.jpg" width="700" height="300"/>
+<img src="https://telegra.ph/file/264db651b1868ddb4fcb1.jpg" width="700" height="300"/>
 
 
 
