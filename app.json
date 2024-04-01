@@ -2,8 +2,8 @@
   "name":"BMW MD💥",
   "description":"bot whatsapp développé par France King",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/8825dbddf23e4be4ca05d.jpg",
-  "repository":"https://github.com/ibrahimaitech/IBRAHIM-AI-10.10",
+  "logo":"https://telegra.ph/file/264db651b1868ddb4fcb1.jpg",
+  "repository":"https://github.com/mrfadi316/Bmwmd",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -42,7 +42,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/8825dbddf23e4be4ca05d.jpg",
+      "value":"https://telegra.ph/file/264db651b1868ddb4fcb1.jpg",
       "required":false
        
      },
